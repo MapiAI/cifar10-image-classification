@@ -1,5 +1,10 @@
 # CIFAR-10 Image Classification with CNN and ResNet50 Transfer Learning
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Dataset](https://img.shields.io/badge/Dataset-CIFAR--10-lightgrey)
+![Test Accuracy](https://img.shields.io/badge/Test%20Accuracy-91%25-success)
+
 ## Project Overview
 
 This project explores image classification on the CIFAR-10 dataset using two different deep learning approaches:
